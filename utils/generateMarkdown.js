@@ -65,9 +65,7 @@ function renderLicenseSection(license) {
   if (license === 'None') {
     return ""
   } else {
-    return `## License
-    ${license}: (${renderLicenseLink(license)})
-    ` // need to figure out how to untab this so it is text
+    return `## License\n  ${license}: ${renderLicenseLink(license)}`
   }
 }
 
@@ -87,17 +85,39 @@ function generateMarkdown(data) {
     email
   } = data
 
-  // const badge = renderLicenseBadge(license)
-  // console.log(badge)
-  return `# ${title}
-
+  return `  # ${title}
   [${renderLicenseBadge(license)}](${renderLicenseLink(license)})
 
+  ## Description
+  ${description}
+
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+  ## Installation
+  ${installation}
+
+  ## Usage
+  ${usage}
+
   ${renderLicenseSection(license)}
-`;
+
+  ## Contributing
+  ${contribution}
+
+  ## Tests
+  ${tests}
+
+  ## Questions
+  ${githubURL}
+
+  For additional questions, feel free to contact me at ${email}.
+  `;
 }
 
 module.exports = generateMarkdown;
-// module.exports = renderLicenseBadge;
-// module.exports = renderLicenseLink;
-// module.exports = renderLicenseSection;
