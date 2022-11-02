@@ -18,8 +18,11 @@ node index.js
 ![screenshot of sample readme.md](./images/readme-sample.png)
 
 ## Walkthrough Video
-
+Use the link below to view a walkthrough of this application.
 https://drive.google.com/file/d/1LLnlExoiPkF3AMDY-gbSM8u8cNHbTpC-/view
+
+If the video is blurry, download the video above or use this link: 
+-   https://app.castify.com/view/f7f1c518-47ce-49ef-b5e7-338188acbdde
 
 ## Questions
 
