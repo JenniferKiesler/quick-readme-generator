@@ -23,4 +23,4 @@ node index.js
 
 ## Questions
 
-Feel free to contact me at my [email](jennyhawes24@gmail.com) or look at my [Github](https://github.com/JenniferKiesler).
+Feel free to contact me at my jennyhawes24@gmail.com or look at my [Github](https://github.com/JenniferKiesler).
