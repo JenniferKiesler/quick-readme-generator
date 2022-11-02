@@ -19,6 +19,7 @@ node index.js
 
 ## Walkthrough Video
 Use the link below to view a walkthrough of this application.
+
 https://drive.google.com/file/d/1LLnlExoiPkF3AMDY-gbSM8u8cNHbTpC-/view
 
 If the video is blurry, download the video above or use this link: 
