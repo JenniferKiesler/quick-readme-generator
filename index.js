@@ -23,7 +23,7 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "Provide instructions and examples for use of your project."
+        message: "Provide instructions and examples on how to use of your project."
     },
     {
         type: "list",
@@ -68,7 +68,7 @@ function init() {
     .then((answers) => {
         console.log(answers)
         const readme = generateMarkdown(answers)
-        console.log(readme)
+        // console.log(readme)
 
         writeToFile('./readme-sample.md', readme)
     })
