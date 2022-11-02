@@ -1,8 +1,8 @@
-  # Sample
+  # Sample README
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  Sample Sample Sample 
+  Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,19 +13,19 @@
   - [Questions](#questions)
 
   ## Installation
-  Sample Sample Sample 
+  Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu.
 
   ## Usage
-  Sample Sample Sample 
+  Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu.
 
   ## License
   MIT License: https://opensource.org/licenses/MIT
 
   ## Contributing
-  Sample Sample Sample 
+  Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu.
 
   ## Tests
-  Sample Sample Sample 
+  Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu.
 
   ## Questions
   https://github.com
